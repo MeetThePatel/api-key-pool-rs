@@ -1,5 +1,8 @@
 # api-key-pool.rs
 
+[Crates.io](https://crates.io/crates/api-key-pool)
+[Docs.rs](https://docs.rs/api-key-pool)
+
 Pool of API keys to circumvent rate-limits.
 
 This package provides an easy way to use multiple API keys to bypass draconian rate-limit policies.
