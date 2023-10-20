@@ -1,0 +1,17 @@
+[package]
+name = "api-key-pool"
+description = "A library to utilize multiple API keys to circumvent API rate limits."
+authors = ["Meet Patel <meet@meetpatel.xyz>"]
+version = "0.0.1"
+edition = "2021"
+readme = "README.md"
+license = "MIT"
+
+
+[[example]]
+name = "api-key-pool"
+doc = false
+
+[dependencies]
+chrono = { version = "0.4.26", features = ["serde"] }
+tokio = { version = "1.29.1", features = ["full"] }
