@@ -2,7 +2,7 @@
 name = "api-key-pool"
 description = "A library to utilize multiple API keys to circumvent API rate limits."
 authors = ["Meet Patel <meet@meetpatel.xyz>"]
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 readme = "README.md"
 license = "MIT"
