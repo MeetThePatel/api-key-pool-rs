@@ -6,6 +6,7 @@ version = "0.0.1"
 edition = "2021"
 readme = "README.md"
 license = "MIT"
+repository = "https://github.com/MeetThePatel/api-key-pool-rs"
 
 
 [[example]]
